@@ -1,8 +1,8 @@
 # Projeto-Stairs
  
-- Projeto desenvolvido como teste.
+- Projeto desenvolvido como desafio.
 - Sistema consistem em uma API de controle de uma adega, onde o usuário pode inserir, atualizar, listar e apagar vinhos de sua adega -pessoal, em memória.
-- Implementado em Golang utilizando o framework GIN.
+- Implementado em Golang utilizando o framework Gin.
 
 # Documentação API
 https://documenter.getpostman.com/view/7995657/SVmtyKts?version=latest
