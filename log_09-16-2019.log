@@ -1,0 +1,200 @@
+[GIN-debug] PUT    /adega/vinho/:vinho       --> main.PutVinho (4 handlers)
+[GIN-debug] POST   /adega/vinho/             --> main.PostVinho (4 handlers)
+[GIN-debug] POST   /adega/vinhos/            --> main.PostVinhos (4 handlers)
+[GIN-debug] PUT    /adega/vinho/:vinho/garrafas/:quantidade --> main.UpdateQtd (4 handlers)
+[GIN-debug] GET    /adega/vinho/:vinho       --> main.GetVinho (4 handlers)
+[GIN-debug] GET    /adega                    --> main.GetAdega (4 handlers)
+[GIN-debug] Listening and serving HTTP on :9191
+[GIN-debug] redirecting request 307: /adega/vinhos --> /adega/vinhos/
+2019/09/16 00:03:20 Iniciando rota PostVinhos
+2019/09/16 00:03:20 Realizando validações
+2019/09/16 00:03:20 Iniciando AddVinho
+2019/09/16 00:03:20 Validando se o vinho existe
+2019/09/16 00:03:20 Adicionando vinho
+2019/09/16 00:03:20 Finalizando AddVinho com sucesso
+2019/09/16 00:03:20 Iniciando AddVinho
+2019/09/16 00:03:20 Validando se o vinho existe
+2019/09/16 00:03:20 Adicionando vinho
+2019/09/16 00:03:20 Finalizando AddVinho com sucesso
+2019/09/16 00:03:20 Iniciando AddVinho
+2019/09/16 00:03:20 Validando se o vinho existe
+2019/09/16 00:03:20 Adicionando vinho
+2019/09/16 00:03:20 Finalizando AddVinho com sucesso
+2019/09/16 00:03:20 Iniciando AddVinho
+2019/09/16 00:03:20 Validando se o vinho existe
+2019/09/16 00:03:20 Adicionando vinho
+2019/09/16 00:03:20 Finalizando AddVinho com sucesso
+2019/09/16 00:03:20 Vinhos inseridos
+2019/09/16 00:03:22 Iniciando rota UpdateQtd
+2019/09/16 00:03:22 Quantidade:  -20
+2019/09/16 00:03:22 Iniciando UpdateQtdGarrafasVinho
+2019/09/16 00:03:22 Atualizando quantidade
+2019/09/16 00:03:22 Finalizando UpdateQtdGarrafasVinho
+2019/09/16 00:03:22 Quantidade atualizada
+2019/09/16 00:03:32 Iniciando rota GetAdega
+2019/09/16 00:03:50 Iniciando rota PutVinho
+2019/09/16 00:03:50 Iniciando OverrideVinho
+2019/09/16 00:03:50 Apagando antigo
+2019/09/16 00:03:50 Adicionando novo vinho
+2019/09/16 00:03:50 Finalizando OverrideVinho
+2019/09/16 00:03:50 Vinho inserido/atualizado
+2019/09/16 00:03:55 Iniciando rota GetAdega
+[GIN-debug] PUT    /adega/vinho/:vinho       --> main.PutVinho (4 handlers)
+[GIN-debug] POST   /adega/vinho/             --> main.PostVinho (4 handlers)
+[GIN-debug] POST   /adega/vinhos/            --> main.PostVinhos (4 handlers)
+[GIN-debug] PUT    /adega/vinho/:vinho/garrafas/:quantidade --> main.UpdateQtd (4 handlers)
+[GIN-debug] GET    /adega/vinho/:vinho       --> main.GetVinho (4 handlers)
+[GIN-debug] GET    /adega                    --> main.GetAdega (4 handlers)
+[GIN-debug] Listening and serving HTTP on :9191
+[GIN-debug] PUT    /adega/vinho/:vinho       --> main.PutVinho (4 handlers)
+[GIN-debug] POST   /adega/vinho/             --> main.PostVinho (4 handlers)
+[GIN-debug] POST   /adega/vinhos/            --> main.PostVinhos (4 handlers)
+[GIN-debug] PUT    /adega/vinho/:vinho/garrafas/:quantidade --> main.UpdateQtd (4 handlers)
+[GIN-debug] GET    /adega/vinho/:vinho       --> main.GetVinho (4 handlers)
+[GIN-debug] GET    /adega                    --> main.GetAdega (4 handlers)
+[GIN-debug] Listening and serving HTTP on :9191
+[GIN-debug] redirecting request 307: /adega/vinhos --> /adega/vinhos/
+2019/09/16 00:05:46 Iniciando rota PostVinhos
+2019/09/16 00:05:46 Realizando validações
+2019/09/16 00:05:46 Iniciando AddVinho
+2019/09/16 00:05:46 Validando se o vinho existe
+2019/09/16 00:05:46 Adicionando vinho
+2019/09/16 00:05:46 Finalizando AddVinho com sucesso
+2019/09/16 00:05:46 Iniciando AddVinho
+2019/09/16 00:05:46 Validando se o vinho existe
+2019/09/16 00:05:46 Adicionando vinho
+2019/09/16 00:05:46 Finalizando AddVinho com sucesso
+2019/09/16 00:05:46 Iniciando AddVinho
+2019/09/16 00:05:46 Validando se o vinho existe
+2019/09/16 00:05:46 Adicionando vinho
+2019/09/16 00:05:46 Finalizando AddVinho com sucesso
+2019/09/16 00:05:46 Iniciando AddVinho
+2019/09/16 00:05:46 Validando se o vinho existe
+2019/09/16 00:05:46 Adicionando vinho
+2019/09/16 00:05:46 Finalizando AddVinho com sucesso
+2019/09/16 00:05:46 Vinhos inseridos
+2019/09/16 00:05:48 Iniciando rota UpdateQtd
+2019/09/16 00:05:48 Quantidade:  -20
+2019/09/16 00:05:48 Iniciando UpdateQtdGarrafasVinho
+2019/09/16 00:05:48 Atualizando quantidade
+2019/09/16 00:05:48 Finalizando UpdateQtdGarrafasVinho
+2019/09/16 00:05:48 Quantidade atualizada
+2019/09/16 00:05:55 Iniciando rota GetAdega
+[GIN-debug] PUT    /adega/vinho/:vinho       --> main.PutVinho (4 handlers)
+[GIN-debug] POST   /adega/vinho/             --> main.PostVinho (4 handlers)
+[GIN-debug] POST   /adega/vinhos/            --> main.PostVinhos (4 handlers)
+[GIN-debug] PUT    /adega/vinho/:vinho/garrafas/:quantidade --> main.UpdateQtd (4 handlers)
+[GIN-debug] GET    /adega/vinho/:vinho       --> main.GetVinho (4 handlers)
+[GIN-debug] GET    /adega                    --> main.GetAdega (4 handlers)
+[GIN-debug] Listening and serving HTTP on :9191
+[GIN-debug] PUT    /adega/vinho/:vinho       --> main.PutVinho (4 handlers)
+[GIN-debug] POST   /adega/vinho/             --> main.PostVinho (4 handlers)
+[GIN-debug] POST   /adega/vinhos/            --> main.PostVinhos (4 handlers)
+[GIN-debug] PUT    /adega/vinho/:vinho/garrafas/:quantidade --> main.UpdateQtd (4 handlers)
+[GIN-debug] GET    /adega/vinho/:vinho       --> main.GetVinho (4 handlers)
+[GIN-debug] GET    /adega                    --> main.GetAdega (4 handlers)
+[GIN-debug] Listening and serving HTTP on :9191
+[GIN-debug] redirecting request 307: /adega/vinhos --> /adega/vinhos/
+2019/09/16 00:10:19 Iniciando rota PostVinhos
+2019/09/16 00:10:19 Realizando validações
+2019/09/16 00:10:19 Iniciando AddVinho
+2019/09/16 00:10:19 Validando se o vinho existe
+2019/09/16 00:10:19 Adicionando vinho
+2019/09/16 00:10:19 Finalizando AddVinho com sucesso
+2019/09/16 00:10:19 Iniciando AddVinho
+2019/09/16 00:10:19 Validando se o vinho existe
+2019/09/16 00:10:19 Adicionando vinho
+2019/09/16 00:10:19 Finalizando AddVinho com sucesso
+2019/09/16 00:10:19 Iniciando AddVinho
+2019/09/16 00:10:19 Validando se o vinho existe
+2019/09/16 00:10:19 Adicionando vinho
+2019/09/16 00:10:19 Finalizando AddVinho com sucesso
+2019/09/16 00:10:19 Iniciando AddVinho
+2019/09/16 00:10:19 Validando se o vinho existe
+2019/09/16 00:10:19 Adicionando vinho
+2019/09/16 00:10:19 Finalizando AddVinho com sucesso
+2019/09/16 00:10:19 Vinhos inseridos
+2019/09/16 00:10:21 Iniciando rota UpdateQtd
+2019/09/16 00:10:21 Quantidade:  -20
+2019/09/16 00:10:21 Iniciando UpdateQtdGarrafasVinho
+2019/09/16 00:10:21 Atualizando quantidade
+2019/09/16 00:10:21 Finalizando UpdateQtdGarrafasVinho
+2019/09/16 00:10:21 Quantidade atualizada
+2019/09/16 00:10:26 Iniciando rota GetAdega
+[GIN-debug] PUT    /adega/vinho/:vinho       --> main.PutVinho (4 handlers)
+[GIN-debug] POST   /adega/vinho/             --> main.PostVinho (4 handlers)
+[GIN-debug] POST   /adega/vinhos/            --> main.PostVinhos (4 handlers)
+[GIN-debug] PUT    /adega/vinho/:vinho/garrafas/:quantidade --> main.UpdateQtd (4 handlers)
+[GIN-debug] GET    /adega/vinho/:vinho       --> main.GetVinho (4 handlers)
+[GIN-debug] GET    /adega                    --> main.GetAdega (4 handlers)
+[GIN-debug] Listening and serving HTTP on :9191
+[GIN-debug] redirecting request 307: /adega/vinhos --> /adega/vinhos/
+2019/09/16 00:11:05 Iniciando rota PostVinhos
+2019/09/16 00:11:05 Realizando validações
+2019/09/16 00:11:05 Iniciando AddVinho
+2019/09/16 00:11:05 Validando se o vinho existe
+2019/09/16 00:11:05 Adicionando vinho
+2019/09/16 00:11:05 Finalizando AddVinho com sucesso
+2019/09/16 00:11:05 Iniciando AddVinho
+2019/09/16 00:11:05 Validando se o vinho existe
+2019/09/16 00:11:05 Adicionando vinho
+2019/09/16 00:11:05 Finalizando AddVinho com sucesso
+2019/09/16 00:11:05 Iniciando AddVinho
+2019/09/16 00:11:05 Validando se o vinho existe
+2019/09/16 00:11:05 Adicionando vinho
+2019/09/16 00:11:05 Finalizando AddVinho com sucesso
+2019/09/16 00:11:05 Iniciando AddVinho
+2019/09/16 00:11:05 Validando se o vinho existe
+2019/09/16 00:11:05 Adicionando vinho
+2019/09/16 00:11:05 Finalizando AddVinho com sucesso
+2019/09/16 00:11:05 Vinhos inseridos
+2019/09/16 00:11:07 Iniciando rota UpdateQtd
+2019/09/16 00:11:07 Quantidade:  -20
+2019/09/16 00:11:07 Iniciando UpdateQtdGarrafasVinho
+2019/09/16 00:11:07 Quantidade negativa, valor inválido
+2019/09/16 00:11:41 Iniciando rota UpdateQtd
+2019/09/16 00:11:41 Quantidade:  -20
+2019/09/16 00:11:41 Iniciando UpdateQtdGarrafasVinho
+2019/09/16 00:11:41 Vinho não existente
+2019/09/16 00:13:20 Iniciando rota GetVinho
+2019/09/16 00:13:20 Retornando vinho:  Campo Largo
+2019/09/16 00:13:44 Iniciando rota GetVinho
+2019/09/16 00:13:44 Vinho não localizado
+[GIN-debug] PUT    /adega/vinho/:vinho       --> main.PutVinho (3 handlers)
+[GIN-debug] POST   /adega/vinho/             --> main.PostVinho (3 handlers)
+[GIN-debug] POST   /adega/vinhos/            --> main.PostVinhos (3 handlers)
+[GIN-debug] PUT    /adega/vinho/:vinho/garrafas/:quantidade --> main.UpdateQtd (3 handlers)
+[GIN-debug] GET    /adega/vinho/:vinho       --> main.GetVinho (3 handlers)
+[GIN-debug] GET    /adega                    --> main.GetAdega (3 handlers)
+[GIN-debug] DELETE /adega/vinho/:vinho       --> main.DelVinho (3 handlers)
+[GIN-debug] Listening and serving HTTP on :9191
+2019/09/16 00:18:06 Iniciando rota DeleteVinho
+2019/09/16 00:18:06 Iniciando DeleteVinho
+2019/09/16 00:18:06 Vinho não existente
+[GIN-debug] redirecting request 307: /adega/vinhos --> /adega/vinhos/
+2019/09/16 00:18:09 Iniciando rota PostVinhos
+2019/09/16 00:18:09 Realizando validações
+2019/09/16 00:18:09 Iniciando AddVinho
+2019/09/16 00:18:09 Validando se o vinho existe
+2019/09/16 00:18:09 Adicionando vinho
+2019/09/16 00:18:09 Finalizando AddVinho com sucesso
+2019/09/16 00:18:09 Iniciando AddVinho
+2019/09/16 00:18:09 Validando se o vinho existe
+2019/09/16 00:18:09 Adicionando vinho
+2019/09/16 00:18:09 Finalizando AddVinho com sucesso
+2019/09/16 00:18:09 Iniciando AddVinho
+2019/09/16 00:18:09 Validando se o vinho existe
+2019/09/16 00:18:09 Adicionando vinho
+2019/09/16 00:18:09 Finalizando AddVinho com sucesso
+2019/09/16 00:18:09 Iniciando AddVinho
+2019/09/16 00:18:09 Validando se o vinho existe
+2019/09/16 00:18:09 Adicionando vinho
+2019/09/16 00:18:09 Finalizando AddVinho com sucesso
+2019/09/16 00:18:09 Vinhos inseridos
+2019/09/16 00:18:11 Iniciando rota DeleteVinho
+2019/09/16 00:18:11 Iniciando DeleteVinho
+2019/09/16 00:18:11 Vinho deletado
+2019/09/16 00:18:11 Vinho apagado
+2019/09/16 00:18:23 Iniciando rota DeleteVinho
+2019/09/16 00:18:23 Iniciando DeleteVinho
+2019/09/16 00:18:23 Vinho não existente
