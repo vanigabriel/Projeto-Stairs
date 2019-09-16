@@ -9,8 +9,6 @@ import (
 	"github.com/joho/godotenv"
 
 	"github.com/gin-gonic/gin"
-
-	_ "gopkg.in/goracle.v2"
 )
 
 var adega, _ = InitAdega()
