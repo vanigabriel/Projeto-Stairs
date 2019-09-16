@@ -46,4 +46,8 @@ func TestAdega(t *testing.T) {
 	err = DeleteVinho("Campo Largo", adega)
 	assert.Nil(t, err)
 
+	// Apaga vinho inexistente
+	err = DeleteVinho("Teste", adega)
+	assert.NotNil(t, err)
+
 }
